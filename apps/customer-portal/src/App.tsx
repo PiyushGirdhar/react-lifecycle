@@ -9,7 +9,7 @@ function App() {
         Custom
       </h1>
       <Button onClick={() => alert(formatCurrency(1000))} />
-        Test
+        Test2
     </>
   )
 }
